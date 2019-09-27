@@ -1,0 +1,551 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -deprecation
+3 -> -unchecked
+javac options:
+4 items
+0 -> -source
+1 -> 1.8
+2 -> -target
+3 -> 1.8
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+29 items
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/CountingApp$.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/CountingApp$delayedInit$body.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/CountingApp.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/CountingLocalApp$.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/CountingLocalApp$delayedInit$body.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/CountingLocalApp.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/Runner$.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/Runner.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader$$anonfun$1.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader$$anonfun$2.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader$.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader$Wine$.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader$Wine.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader$delayedInit$body.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/SimpleSparkJob$$anonfun$1.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/SimpleSparkJob$$anonfun$2.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/SimpleSparkJob$$anonfun$3.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/SimpleSparkJob$.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/SimpleSparkJob$delayedInit$body.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/SimpleSparkJob.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$$anonfun$1.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$$anonfun$2$$anonfun$apply$1.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$$anonfun$2.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$$anonfun$3.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$$anonfun$4.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$$anonfun$5.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$.class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> /home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount.class
+binary dependencies:
+16 items
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> /home/dsapr/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.0.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> /home/dsapr/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /home/dsapr/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.0.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /home/dsapr/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.3.0.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /home/dsapr/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.2.11.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /home/dsapr/.ivy2/cache/org.json4s/json4s-jackson_2.11/jars/json4s-jackson_2.11-3.2.11.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /home/dsapr/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> /home/dsapr/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.0.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> /home/dsapr/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.3.0.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> /home/dsapr/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> /home/dsapr/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.0.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> /home/dsapr/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> /home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+29 items
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> com.example.json_reader_saprykin.CountingApp
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> com.example.json_reader_saprykin.CountingApp$
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> com.example.json_reader_saprykin.CountingApp$delayedInit$body
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> com.example.json_reader_saprykin.CountingLocalApp
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> com.example.json_reader_saprykin.CountingLocalApp$
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> com.example.json_reader_saprykin.CountingLocalApp$delayedInit$body
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> com.example.json_reader_saprykin.Runner
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> com.example.json_reader_saprykin.Runner$
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> com.example.json_reader_saprykin.JsonReader
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> com.example.json_reader_saprykin.JsonReader$
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> com.example.json_reader_saprykin.JsonReader$$anonfun$1
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> com.example.json_reader_saprykin.JsonReader$$anonfun$2
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> com.example.json_reader_saprykin.JsonReader$Wine
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> com.example.json_reader_saprykin.JsonReader$Wine$
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> com.example.json_reader_saprykin.JsonReader$delayedInit$body
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> com.example.json_reader_saprykin.SimpleSparkJob
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> com.example.json_reader_saprykin.SimpleSparkJob$
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> com.example.json_reader_saprykin.SimpleSparkJob$$anonfun$1
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> com.example.json_reader_saprykin.SimpleSparkJob$$anonfun$2
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> com.example.json_reader_saprykin.SimpleSparkJob$$anonfun$3
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> com.example.json_reader_saprykin.SimpleSparkJob$delayedInit$body
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> com.example.json_reader_saprykin.WordCount
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> com.example.json_reader_saprykin.WordCount$
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> com.example.json_reader_saprykin.WordCount$$anonfun$1
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> com.example.json_reader_saprykin.WordCount$$anonfun$2
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> com.example.json_reader_saprykin.WordCount$$anonfun$2$$anonfun$apply$1
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> com.example.json_reader_saprykin.WordCount$$anonfun$3
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> com.example.json_reader_saprykin.WordCount$$anonfun$4
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> com.example.json_reader_saprykin.WordCount$$anonfun$5
+used names:
+313 items
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> <init>
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> Any
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> AnyRef
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> App
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> Array
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> Boolean
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> Char
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> CountingApp
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> CountingLocalApp
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> Int
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> MatchError
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> Nothing
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> Object
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> Predef
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> RDD
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> Runner
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> Set
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> SparkConf
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> SparkContext
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> String
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> T1
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> T2
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> Tuple2
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> Unit
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> WordCount
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> _1
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> _2
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> apache
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> apply
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> args
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> com
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> conf
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> counts
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> example
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> inputFile
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> json_reader_saprykin
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> ne
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> org
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> outputFile
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> rdd
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> run
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> saveAsTextFile
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> sc
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> scala
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> setAppName
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> setMaster
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> spark
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> textFile
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> unchecked
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> withStopWordsFiltered
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> &&
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> <init>
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> <repeated>
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> ==
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> A
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> AbstractFunction6
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Any
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> AnyRef
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> AnyValManifest
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> App
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Array
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Boolean
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Builder
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> ClassTag
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> DefaultFormats
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> ExtractableJsonAstNode
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Extraction
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Formats
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Function1
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> IndexOutOfBoundsException
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Int
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Iterator
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> JValue
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> JsonInput
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> JsonMethods
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> JsonReader
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Manifest
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> ManifestFactory
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> MonadicJValue
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> None
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Nothing
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Object
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Predef
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Product
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> RDD
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> ScalaRunTime
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Serializable
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Some
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> SparkContext
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> SparkSession
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Statics
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> String
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> StringContext
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> T
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> T0
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> T1
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> T2
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> T3
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> T4
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> T5
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> T6
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Tuple6
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> U
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Unit
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> Wine
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> \
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> _$7
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> _toString
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> anyHash
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> apache
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> appName
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> apply
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> args
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> asInstanceOf
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> builder
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> classType
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> collect
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> com
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> country
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> decodedWine
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> decompose
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> eq
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> example
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> extract
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> finalizeHash
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> formats
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> formats$lzy
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> getOrCreate
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> id
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> isInstanceOf
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> j
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> jackson
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> json
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> json4s
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> json_reader_saprykin
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> jvalue2extractable
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> jvalue2monadic
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> line
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> map
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> master
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> materializeClassTag
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> mix
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> org
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> package
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> parse
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> pathToFile
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> points
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> pretty
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> println
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> reflect
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> render
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> result
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> runtime
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> s
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> sc
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> scala
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> sourceRDD
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> spark
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> sparkContext
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> sql
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> string2JsonInput
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> textFile
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> title
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> toString
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> typedProductIterator
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> variety
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> w
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> winery
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> ||
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> *
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> +
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> <init>
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> <repeated>
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> >
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> A
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> Any
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> App
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> Array
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> ArrayOps
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> Boolean
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> Builder
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> ClassTag
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> Function1
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> Int
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> List
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> Nothing
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> Object
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> Predef
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> RDD
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> Seq
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> SimpleSparkJob
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> SparkContext
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> SparkSession
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> String
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> T
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> TraversableOnce
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> U
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> Unit
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> WrappedArray
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> apache
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> appName
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> apply
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> builder
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> collect
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> com
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> data
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> example
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> filter
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> firstRDD
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> flatMap
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> getOrCreate
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> immutable
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> intArrayOps
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> json_reader_saprykin
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> map
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> master
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> materializeClassTag
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> org
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> package
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> parallelize
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> println
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> rdd
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> result
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> sc
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> scala
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> spark
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> sparkContext
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> sql
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> toList
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> wrapIntArray
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> x
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> &&
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> +
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> <init>
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> <repeated>
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> >
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> A
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Any
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> AnyRef
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Array
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> ArrayOps
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> ArraySeq
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> B
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Boolean
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> CanBuildFrom
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Char
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Class
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> ClassTag
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Coll
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> DummyImplicit
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Function1
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Function2
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Int
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> K
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Nothing
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Object
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Ordering
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> PairRDDFunctions
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Predef
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> RDD
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Set
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> String
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> StringOps
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> T
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> T1
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> T2
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> That
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> TraversableOnce
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> Tuple2
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> U
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> V
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> WordCount
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> _$1
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> _$7
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> apache
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> apply
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> augmentString
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> canBuildFrom
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> com
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> contains
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> dummyImplicit
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> example
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> fallbackCanBuildFrom
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> filter
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> flatMap
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> immutable
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> json_reader_saprykin
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> lcStopWords
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> length
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> map
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> materializeClassTag
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> math
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> org
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> package
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> rdd
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> rddToPairRDDFunctions
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> reduceByKey
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> refArrayOps
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> scala
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> separators
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> spark
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> split
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> stopWords
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> toCharArray
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> toLowerCase
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> token
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> tokens
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> trim
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> unary_!
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> wordCounts
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> wordPairs
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> words
+product stamps:
+29 items
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/CountingApp$.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/CountingApp$delayedInit$body.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/CountingApp.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/CountingLocalApp$.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/CountingLocalApp$delayedInit$body.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/CountingLocalApp.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader$$anonfun$1.class -> lastModified(1569569661000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader$$anonfun$2.class -> lastModified(1569569661000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader$.class -> lastModified(1569569661000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader$Wine$.class -> lastModified(1569569661000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader$Wine.class -> lastModified(1569569661000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader$delayedInit$body.class -> lastModified(1569569661000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/JsonReader.class -> lastModified(1569569661000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/Runner$.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/Runner.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/SimpleSparkJob$$anonfun$1.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/SimpleSparkJob$$anonfun$2.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/SimpleSparkJob$$anonfun$3.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/SimpleSparkJob$.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/SimpleSparkJob$delayedInit$body.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/SimpleSparkJob.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$$anonfun$1.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$$anonfun$2$$anonfun$apply$1.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$$anonfun$2.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$$anonfun$3.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$$anonfun$4.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$$anonfun$5.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount$.class -> lastModified(1569569615000)
+/home/dsapr/dataen/json_reader_saprykin/target/scala-2.11/classes/com/example/json_reader_saprykin/WordCount.class -> lastModified(1569569615000)
+source stamps:
+4 items
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> hash(29635d63be9dbcfb724866ae1f02b16f02fd0de5)
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> hash(fce7ab637f0d0c685f52384feca6008a3e6e5ea1)
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> hash(ba40ba6ed20e632647dd79b90935237748b94a99)
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> hash(ec4ebec3f61f0312615fe2a19d5a62557b8563d4)
+binary stamps:
+6 items
+/home/dsapr/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.0.jar -> lastModified(1519331334000)
+/home/dsapr/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.3.0.jar -> lastModified(1519331558000)
+/home/dsapr/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.2.11.jar -> lastModified(1414113034000)
+/home/dsapr/.ivy2/cache/org.json4s/json4s-jackson_2.11/jars/json4s-jackson_2.11-3.2.11.jar -> lastModified(1414113065000)
+/home/dsapr/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1563552784000)
+class names:
+6 items
+/home/dsapr/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.0.jar -> org.apache.spark.rdd.RDD
+/home/dsapr/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.3.0.jar -> org.apache.spark.sql.SparkSession$
+/home/dsapr/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.2.11.jar -> org.json4s.ExtractableJsonAstNode
+/home/dsapr/.ivy2/cache/org.json4s/json4s-jackson_2.11/jars/json4s-jackson_2.11-3.2.11.jar -> org.json4s.jackson.JsonMethods$
+/home/dsapr/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Product
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwgi8JcgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwK34cvXQABm5vdGlmeXNxAH4ADDes7Qp0AAR3YWl0c3EAfgAM4JGhyXQADSRhc0luc3RhbmNlT2ZzcQB+AAzY3whwdAAQQ291bnRpbmdMb2NhbEFwcHNxAH4ADMWCsLR0AAZlcXVhbHNzcQB+AAyETsUudAALQ291bnRpbmdBcHBzcQB+AAzw56W/dAAMYXNJbnN0YW5jZU9mc3EAfgAMTP/KxXQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMfJ7WfHQAA3J1bnNxAH4ADBZF+5d0AAxzeW5jaHJvbml6ZWRzcQB+AAyaQ8hOdAANJGlzSW5zdGFuY2VPZnNxAH4ADMx4M0p0AARtYWluc3EAfgAMYsdUk3QACW5vdGlmeUFsbHNxAH4ADHMNvzp0AARjb25mc3EAfgAMEzgt+HQADGlzSW5zdGFuY2VPZnNxAH4ADLtobAl0AApvdXRwdXRGaWxlc3EAfgAMujLkoXQAAj09c3EAfgAMLzqj4XQABWNsb25lc3EAfgAMrxsdFXQABlJ1bm5lcnNxAH4ADLIdbXZ0AAYkaW5pdCRzcQB+AAx9Nh9ldAAIdG9TdHJpbmdzcQB+AAyBAJoJdAAEYXJnc3NxAH4ADNy61yJ0AAIhPXNxAH4ADCDKr2h0AAhnZXRDbGFzc3NxAH4ADMmomzJ0AAJuZXNxAH4ADEGiRU90AAJlcXNxAH4ADBXGaTx0AAtkZWxheWVkSW5pdHNxAH4ADGmhE5N0AAIjI3NxAH4ADE+yEqt0AAhmaW5hbGl6ZXNxAH4ADMpdUSF0AAhoYXNoQ29kZXNxAH4ADJJVBoV0AAlpbnB1dEZpbGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAxY29tLmV4YW1wbGUuanNvbl9yZWFkZXJfc2FwcnlraW4uQ291bnRpbmdMb2NhbEFwcHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ab3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBVTAAJaW5oZXJpdGVkcQB+AFVMAAdwYXJlbnRzcQB+AFV4cQB+AHRzcQB+AG91cQB+AFAAAAAAc3EAfgBvdXEAfgBQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBWcQB+AF91cQB+AGAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB+eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHN0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ac3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AmHNxAH4AYgBxAH4AJXVxAH4AZQAAAABzcQB+AIt0AARVbml0cQB+AJF1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB+eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBodAAFUGxhaW5xAH4AOXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AjFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ac3NxAH4Ai3QABUFycmF5cQB+AJF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ai3QABlN0cmluZ3NxAH4Aj3NxAH4AknVxAH4AlQAAAANzcQB+AJd0AARqYXZhc3EAfgCXdAAEbGFuZ3EAfgCcc3EAfgBvdXEAfgCzAAAABHNxAH4Ai3QAA0FwcHEAfgCRc3EAfgCLdAALRGVsYXllZEluaXRxAH4AkXNxAH4Ai3QABk9iamVjdHEAfgC3c3EAfgCLdAADQW55cQB+AJFzcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAAsY29tLmV4YW1wbGUuanNvbl9yZWFkZXJfc2FwcnlraW4uQ291bnRpbmdBcHB1cQB+AGUAAAAAcQB+AGl1cQB+AGsAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3EAfgBvcQB+AHVzcQB+AG9zcQB+AHdzcQB+AG91cQB+AFAAAAAAc3EAfgBvdXEAfgBQAAAAAXNxAH4AfXEAfgBfdXEAfgBgAAAAAXNxAH4AgnVxAH4AhQAAAAFzcQB+AIdxAH4AiXQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNxAH4Ai3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgCPc3EAfgCSdXEAfgCVAAAAAnNxAH4Al3EAfgCacQB+AJxzcQB+AGIAcQB+ACV1cQB+AGUAAAAAc3EAfgCLcQB+AKBxAH4A33VxAH4AoQAAAAFzcQB+AKMAdXEAfgCmAAAAAXNxAH4AqABxAH4ArHEAfgA5c3EAfgCuc3EAfgCLcQB+ALJxAH4A33VxAH4AswAAAAFzcQB+AItxAH4AtnNxAH4Aj3NxAH4AknVxAH4AlQAAAANzcQB+AJdxAH4Au3NxAH4Al3EAfgC9cQB+AJxzcQB+AG91cQB+ALMAAAAEc3EAfgCLdAADQXBwcQB+AN9zcQB+AIt0AAtEZWxheWVkSW5pdHEAfgDfc3EAfgCLcQB+AMVxAH4A7nNxAH4Ai3EAfgDHcQB+AN9zcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAAnY29tLmV4YW1wbGUuanNvbl9yZWFkZXJfc2FwcnlraW4uUnVubmVydXEAfgBlAAAAAHEAfgBpdXEAfgBrAAAAAHNxAH4Ab3EAfgB1c3EAfgBvc3EAfgB3c3EAfgBvdXEAfgBQAAAAAHNxAH4Ab3VxAH4AUAAAAABzcQB+AG91cQB+ALMAAAACc3EAfgCLcQB+AMVzcQB+AI9zcQB+AJJ1cQB+AJUAAAADc3EAfgCXcQB+ALtzcQB+AJdxAH4AvXEAfgCcc3EAfgCLcQB+AMdzcQB+AI9zcQB+AJJ1cQB+AJUAAAACc3EAfgCXcQB+AJpxAH4AnHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAIGNvbS5leGFtcGxlLmpzb25fcmVhZGVyX3NhcHJ5a2luc3EAfgEXdAALY29tLmV4YW1wbGVzcQB+ARd0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW1xo517dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUKWNdY76dvPtySGauHwKxbwL9DeU=
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8lp0owAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA2c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwlH+gIXQABm5vdGlmeXNxAH4ADF3MXsd0AAd1bmFwcGx5c3EAfgAM/LM2hXQACkpzb25SZWFkZXJzcQB+AAwF4rAddAAHY3VycmllZHNxAH4ADLur9+10AAR3YWl0c3EAfgAMbBcGUnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMDC8VbnQADSRhc0luc3RhbmNlT2ZzcQB+AAz3z6sZdAAOY29weSRkZWZhdWx0JDVzcQB+AAxdjx5xdAAMcHJvZHVjdEFyaXR5c3EAfgAM4PyZ4nQABmVxdWFsc3NxAH4ADClVtBd0AApwYXRoVG9GaWxlc3EAfgAMkLGh4nQADGFzSW5zdGFuY2VPZnNxAH4ADPiwks50AA5leGVjdXRpb25TdGFydHNxAH4ADFOcdPd0AAZyZXN1bHRzcQB+AAyKm6LfdAAMc3luY2hyb25pemVkc3EAfgAMDkJPw3QAAnNjc3EAfgAMvfNwenQADSRpc0luc3RhbmNlT2ZzcQB+AAz1aJJ1dAAGdHVwbGVkc3EAfgAM7LRjTHQABFdpbmVzcQB+AAx3ElnpdAAIY2FuRXF1YWxzcQB+AAx7yEtmdAAHY291bnRyeXNxAH4ADPtdsQ50AA5jb3B5JGRlZmF1bHQkNHNxAH4ADDOBnFx0AARtYWluc3EAfgAMLLMd3HQADXByb2R1Y3RQcmVmaXhzcQB+AAyJ78QddAAJbm90aWZ5QWxsc3EAfgAMlTUoVXQADGlzSW5zdGFuY2VPZnNxAH4ADNVUq/x0AAd2YXJpZXR5c3EAfgAMoTX3oXQABjxpbml0PnNxAH4ADFiJsBp0AAZwb2ludHNzcQB+AAxd0dKKdAACaWRzcQB+AAyk8ctLdAAFYXBwbHlzcQB+AAy8700edAAFc3BhcmtzcQB+AAxmdbYRdAACPT1zcQB+AAw3GSTkdAAFY2xvbmVzcQB+AAyFNsXcdAAGJGluaXQkc3EAfgAMN5mEA3QADmNvcHkkZGVmYXVsdCQzc3EAfgAMoZaMkXQABGNvcHlzcQB+AAxMOnSBdAAIdG9TdHJpbmdzcQB+AAwqGHyddAAJc291cmNlUkREc3EAfgAMWO1hnHQABGFyZ3NzcQB+AAxCml0ldAACIT1zcQB+AAzbpYpFdAAIZ2V0Q2xhc3NzcQB+AAyQdLSBdAAFdGl0bGVzcQB+AAxN0zN2dAAOY29weSRkZWZhdWx0JDFzcQB+AAztuSuWdAAOY29weSRkZWZhdWx0JDZzcQB+AAxvoer7dAACbmVzcQB+AAy3arOBdAAGd2luZXJ5c3EAfgAMmL+Y9HQAAmVxc3EAfgAMZQ9g3HQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADEVNWxt0AAtkZWxheWVkSW5pdHNxAH4ADIwc5bJ0AAIjI3NxAH4ADGZRn+10AAhmaW5hbGl6ZXNxAH4ADPGumpR0AA5wcm9kdWN0RWxlbWVudHNxAH4ADOy0me10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACtjb20uZXhhbXBsZS5qc29uX3JlYWRlcl9zYXByeWtpbi5Kc29uUmVhZGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AINMAAlpbmhlcml0ZWRxAH4Ag0wAB3BhcmVudHNxAH4Ag3hxAH4AonNxAH4AnXVxAH4AfgAAAABzcQB+AJ11cQB+AH4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AIRxAH4AjXVxAH4AjgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AKx4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AoXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgChc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDGc3EAfgCQAHEAfgA7dXEAfgCTAAAAAHNxAH4AuXQABFVuaXRxAH4Av3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AKx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AJZ0AAVQbGFpbnEAfgBdc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgC6WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgChc3EAfgC5dAAFQXJyYXlxAH4Av3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgC5dAAGU3RyaW5nc3EAfgC9c3EAfgDAdXEAfgDDAAAAA3NxAH4AxXQABGphdmFzcQB+AMV0AARsYW5ncQB+AMpzcQB+AJ11cQB+AOEAAAAEc3EAfgC5dAADQXBwcQB+AL9zcQB+ALl0AAtEZWxheWVkSW5pdHEAfgC/c3EAfgC5dAAGT2JqZWN0cQB+AOVzcQB+ALl0AANBbnlxAH4Av3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAIGNvbS5leGFtcGxlLmpzb25fcmVhZGVyX3NhcHJ5a2luc3EAfgD4dAALY29tLmV4YW1wbGVzcQB+APh0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW1xpF6hdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU/OerY38NDGhfUjhP7KYAij5uXqE=
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwgAByVwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwJPZLRXQABm5vdGlmeXNxAH4ADEXNgXN0AAR3YWl0c3EAfgAM+JVpHnQADSRhc0luc3RhbmNlT2ZzcQB+AAw0pzMWdAAIZmlyc3RSRERzcQB+AAwIFMIMdAAGZXF1YWxzc3EAfgAMNXHpNXQADGFzSW5zdGFuY2VPZnNxAH4ADBH1EP50AA5leGVjdXRpb25TdGFydHNxAH4ADJqrjbh0AARkYXRhc3EAfgAMkVTxm3QABnJlc3VsdHNxAH4ADLRhHux0AAxzeW5jaHJvbml6ZWRzcQB+AAw8Gl2LdAACc2NzcQB+AAzSWZzcdAANJGlzSW5zdGFuY2VPZnNxAH4ADEH8XF50AARtYWluc3EAfgAMe2Sg7nQACW5vdGlmeUFsbHNxAH4ADIgXHP90AA5TaW1wbGVTcGFya0pvYnNxAH4ADCyMZpl0AAxpc0luc3RhbmNlT2ZzcQB+AAyCxOyWdAAFc3BhcmtzcQB+AAyc4y/4dAACPT1zcQB+AAyRO+pNdAAFY2xvbmVzcQB+AAwvn5IWdAAGJGluaXQkc3EAfgAMlNwt4XQACHRvU3RyaW5nc3EAfgAM4twW6XQABGFyZ3NzcQB+AAxm1FhvdAACIT1zcQB+AAwNygt2dAAIZ2V0Q2xhc3NzcQB+AAxP15LrdAACbmVzcQB+AAxrGBOAdAACZXFzcQB+AAyRAh//dAALZGVsYXllZEluaXRzcQB+AAzmMZJ6dAACIyNzcQB+AAweMm/VdAAIZmluYWxpemVzcQB+AAwwrea6dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAvY29tLmV4YW1wbGUuanNvbl9yZWFkZXJfc2FwcnlraW4uU2ltcGxlU3BhcmtKb2J1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgByc3EAfgBtdXEAfgBOAAAAAHNxAH4AbXVxAH4ATgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AVHEAfgBddXEAfgBeAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AfHhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBxdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJZzcQB+AGAAcQB+ACd1cQB+AGMAAAAAc3EAfgCJdAAEVW5pdHEAfgCPdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AfHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AZnQABVBsYWlucQB+ADlzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIpbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHFzcQB+AIl0AAVBcnJheXEAfgCPdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIl0AAZTdHJpbmdzcQB+AI1zcQB+AJB1cQB+AJMAAAADc3EAfgCVdAAEamF2YXNxAH4AlXQABGxhbmdxAH4AmnNxAH4AbXVxAH4AsQAAAARzcQB+AIl0AANBcHBxAH4Aj3NxAH4AiXQAC0RlbGF5ZWRJbml0cQB+AI9zcQB+AIl0AAZPYmplY3RxAH4AtXNxAH4AiXQAA0FueXEAfgCPdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAgY29tLmV4YW1wbGUuanNvbl9yZWFkZXJfc2FwcnlraW5zcQB+AMh0AAtjb20uZXhhbXBsZXNxAH4AyHQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbXGjnXt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABBL2hvbWUvZHNhcHIvZGF0YWVuL2pzb25fcmVhZGVyX3NhcHJ5a2luL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS6QLpu0g5jJkfdebkJNSN3SLlKmQ==
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwKsDq4QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwYKhHqHQABm5vdGlmeXNxAH4ADNeG2Np0AAR3YWl0c3EAfgAMlCPuz3QADSRhc0luc3RhbmNlT2ZzcQB+AAzXbFjKdAAGZXF1YWxzc3EAfgAMT62zj3QADGFzSW5zdGFuY2VPZnNxAH4ADMZMepR0AAxzeW5jaHJvbml6ZWRzcQB+AAzb5LNGdAANJGlzSW5zdGFuY2VPZnNxAH4ADIbkW450AB93aXRoU3RvcFdvcmRzRmlsdGVyZWQkZGVmYXVsdCQyc3EAfgAMyytoZnQACVdvcmRDb3VudHNxAH4ADPj4ltt0AAlub3RpZnlBbGxzcQB+AAzZ4NK6dAAfd2l0aFN0b3BXb3Jkc0ZpbHRlcmVkJGRlZmF1bHQkM3NxAH4ADH79XY50AAxpc0luc3RhbmNlT2ZzcQB+AAwWEeejdAAVd2l0aFN0b3BXb3Jkc0ZpbHRlcmVkc3EAfgAMmpLgl3QAAj09c3EAfgAM8LhL63QABWNsb25lc3EAfgAMem0I6HQACHRvU3RyaW5nc3EAfgAMYZKSGnQAAiE9c3EAfgAMK0OxqHQACGdldENsYXNzc3EAfgAMWWKj0HQAAm5lc3EAfgAMR5tBo3QAAmVxc3EAfgAMAZ3anXQAAiMjc3EAfgAM6DRusnQACGZpbmFsaXplc3EAfgAMkinc6HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAKmNvbS5leGFtcGxlLmpzb25fcmVhZGVyX3NhcHJ5a2luLldvcmRDb3VudHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGJzcQB+AF11cQB+AEAAAAAAc3EAfgBddXEAfgBAAAAAAHNxAH4AXXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAgY29tLmV4YW1wbGUuanNvbl9yZWFkZXJfc2FwcnlraW5zcQB+AIt0AAtjb20uZXhhbXBsZXNxAH4Ai3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbXGjnXt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABBL2hvbWUvZHNhcHIvZGF0YWVuL2pzb25fcmVhZGVyX3NhcHJ5a2luL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTsTr7D9h8DEmFf4qGdWmJVe4Vj1A==
+external apis:
+0 items
+source infos:
+4 items
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/CountingApp.scala -> 
+AAAAAAAAAAA=
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/JsonReader.scala -> 
+AAAAAAAAAAA=
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/SimpleSparkJob.scala -> 
+AAAAAAAAAAA=
+/home/dsapr/dataen/json_reader_saprykin/src/main/scala/com/example/json_reader_saprykin/WordCount.scala -> 
+AAAAAAAAAAA=
+compilations:
+34 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWZpfH51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWZso2d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWZxWRJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWdTydt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWdWUb11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWeJWnJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWeKy4R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWeMJV51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWeNIDV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWePK8J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWeTiAx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWeiF8p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWe6nql1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWgvJq91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWg58k91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWg6llB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWx6DRV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWx8gnp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWyBiYN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWytbYR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW0NjHJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW0fwY11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW0gg451cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW0iddd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW0kbY51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW08UEJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW1A9TZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW1FBDd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW1HHKV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW1JCkV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbXGbCJx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbXGb46N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbXGjnXt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbXGkXqF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL2RzYXByL2RhdGFlbi9qc29uX3JlYWRlcl9zYXByeWtpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
